@@ -1,5 +1,7 @@
 # -RestaurantAnalysisProject
 The Restaurant Data Analysis Project conducted using Python in Jupyter Notebook, leveraging Python and key libraries like Pandas, NumPy, Matplotlib, and Seaborn, this project insights from diverse restaurant datasets. 
+
+
 Here are Project Highlights: 
 Discovering Locations: Mapped restaurant locations across cities using longitude and latitude coordinates, providing a visual representation of culinary landscapes. 
 
